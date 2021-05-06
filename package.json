@@ -1,0 +1,16 @@
+{
+  "name": "chennai-bedwars",
+  "version": "1.0.0",
+  "description": "find bed or die",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "exceljs": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nightmare99",
+  "license": "ISC"
+}
